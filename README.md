@@ -1,6 +1,6 @@
-# 秋哒不溜BLOG :link: https://QWQAWATVT.github.io/BLOGQWQAWACOM 
-### :page_facing_up: [2](https://QWQAWATVT.github.io/BLOGQWQAWACOM/tag.html) 
+# 秋哒不溜BLOG :link: https://blog.qwqawa.com 
+### :page_facing_up: [2](https://blog.qwqawa.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 30 
-### :alarm_clock: 2024-06-26 23:13:48 
+### :alarm_clock: 2024-06-26 23:44:10 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)

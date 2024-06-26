@@ -13,7 +13,7 @@
 <meta property="og:title" content="Test">
 <meta property="og:description" content="Test。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://QWQAWATVT.github.io/BLOGQWQAWACOM/post/Test.html">
+<meta property="og:url" content="https://blog.qwqawa.com/post/Test.html">
 <meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
 <title>Test</title>
 
@@ -48,7 +48,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="header">
 <h1 class="postTitle">Test</h1>
 <div class="title-right">
-    <a href="https://QWQAWATVT.github.io/BLOGQWQAWACOM" id="buttonHome" class="btn btn-invisible circle" title="首页">
+    <a href="https://blog.qwqawa.com" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
             <path id="pathHome" fill-rule="evenodd"></path>
         </svg>
@@ -75,19 +75,19 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
 </div>
-    <div id="footer">Copyright © <span id="year"></span><a href="https://QWQAWATVT.github.io/BLOGQWQAWACOM"> 秋哒不溜BLOG </a>
-<p>
+    <div id="footer">Copyright © <span id="year"></span><a href="https://blog.qwqawa.com"> 秋哒不溜BLOG </a>
+<p><a href="https://beian.miit.gov.cn/" target="_blank">萌ICP备20249222号</a>
 <span id="runday"></span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a>
 </p>
 
 <script>
-if(""!=""){
+if("05/01/2023"!=""){
     var now=new Date();
-    var startSite=new Date("");
+    var startSite=new Date("05/01/2023");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("year").innerHTML=now.getFullYear();
-    if(""!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
+    if("萌ICP备20249222号"!=""){document.getElementById("runday").innerHTML=" • "+"网站运行"+diffDay+"天"+" • ";}
     else{document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";}
 }
 </script>
